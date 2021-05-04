@@ -1,0 +1,19 @@
+.event-table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  color: #777777;
+}
+
+.event-table th {
+  cursor: pointer;
+}
+
+.event-table th, td {
+  font-weight: bold;
+  text-align: center;
+  padding: 15px;
+}
+
+.title-column {
+  text-align: left;
+}

@@ -1,0 +1,21 @@
+.profile-wrapper {
+  margin: 0 auto;
+  width: fit-content;
+}
+
+.profile-content-wrapper {
+  display: flex;
+}
+
+.profile-wrapper h4{
+  width: fit-content;
+  margin: 30px auto 10px;
+  color: #777777;
+  text-align: center;
+}
+
+.profile-wrapper img {
+  width: 200px;
+  height: 200px;
+  margin: 0 20px
+}
